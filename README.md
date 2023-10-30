@@ -17,7 +17,7 @@ ALGORITHM:
 5.Close the write end of child process and performreading
 
 6.Display the text
-
+```
 PROGRAM:
 ```
 #include <stdio.h>
@@ -45,8 +45,10 @@ printf("The string received from pipe is: %s",a);
 }
 return 0;
 } 
+
 ```
 OUTPUT:
+file:///home/sec/Downloads/WhatsApp%20Image%202023-10-30%20at%2020.08.46.jpeg![image](https://github.com/aparnabalasubrmanian/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/123351172/225fb4c0-78d0-4ec0-938e-e73fb5128696)
 
 
 RESULT:
